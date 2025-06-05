@@ -14,9 +14,7 @@ To-DoList vous permet d'accomplir vos tâches. Avec une interface dynamique, To-
 - Important
 - Après 
 
-## Instruction d'installation 
-
-### Descendances
+## Instruction d'installation ### Descendances
 
 - PHP
 - MySQL
@@ -41,7 +39,7 @@ CREATE DATABASE todo_db;
 USE todo_db;
 ```
 
-#### 4. Créer la table SQL dans la base de donnée 
+#### 4. Créer la table SQL dans la base de donnée 🗄️
 
 ```mysql
 CREATE TABLE taches(
@@ -83,3 +81,4 @@ php -S localhost:8003
 ```txt
 http://localhost:8003/index.html
 ```
+
