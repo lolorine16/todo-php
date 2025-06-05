@@ -1,17 +1,20 @@
-# to-do list 🌷
-
-### EN Burn-Out ? notre todo-list est faite pour vous 
-
-Cette todo-list est sectionnée en 3 parties :
-
-- *Urgent*
-- *Important*
-- *Après*
-
-***Pourquoi !?* Bah parce que chaque chose a son temps et au lieu de vous surmener, vous pourriez accomplir vos taches de manière progressive des *plus urgente* a celles qui les sont moins**
+# Ma To-DOlist
 
 
-## Comment l'utiliser !?
+## Auteurs
+
+- **EKON Dede Lydia**
+- **MIVEDOR Ayi Bismark**
+
+## Objectif
+
+To-DoList vous permet d'accomplir vos tâches. Avec une interface dynamique, To-Dolist est organiser en trois sections : 
+
+- Urgent
+- Important
+- Après 
+
+## Instruction d'installation : 
 
 ### Descendances
 
@@ -38,7 +41,7 @@ CREATE DATABASE todo_db;
 USE todo_db;
 ```
 
-#### 4. Créer la table SQL dans la base de donnée 🗄️
+#### 4. Créer la table SQL dans la base de donnée 
 
 ```mysql
 CREATE TABLE taches(
@@ -75,14 +78,8 @@ nano db.php
 php -S localhost:8003
 ```
   
-*Quand tout est bon* **tape dans ton navigateur **
+*Quand tout est bon * **tape dans ton navigateur **
 
 ```txt
 http://localhost:8003/index.html
 ```
-
-# Les Choses a améliorer
-
-Bah a toi de voir 
-
-
