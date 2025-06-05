@@ -10,7 +10,7 @@ Cette todo-list est sectionnée en 3 parties :
 
 ***Pourquoi !?* Bah parce que chaque chose a son temps et au lieu de vous surmener, vous pourriez accomplir vos taches de manière progressive des *plus urgente* a celles qui les sont moins 😉**
 
-![[todo.png]]
+
 ## Comment l'utiliser !?
 
 ### Descendances
