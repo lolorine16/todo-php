@@ -14,7 +14,7 @@ To-DoList vous permet d'accomplir vos tâches. Avec une interface dynamique, To-
 - Important
 - Après 
 
-## Instruction d'installation : 
+## Instruction d'installation 
 
 ### Descendances
 
